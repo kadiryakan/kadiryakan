@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <a href="https://kadiryakan.dev" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/></a>
+ <a href="https://kadiryakan.dev" target="blank"><img src="https://img.shields.io/badge/Website-3244a8?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
