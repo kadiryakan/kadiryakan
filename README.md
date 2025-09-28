@@ -1,6 +1,5 @@
 <p align="center"> 
   <samp>
-    <br>
       18yo junior front-end developer
     <br>
   </samp>
