@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-593D88?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000"/>
 </p>
