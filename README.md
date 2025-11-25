@@ -32,8 +32,9 @@ Due to **Non-Disclosure Agreements (NDAs)** and business confidentiality, the so
 
 However, I actively develop production-ready solutions including:
 
-- 🏢 **Corporate Web Solutions:** High-performance, SEO-friendly websites built with **Next.js** & **React**, **Nuxt.js** & **Vue**.
-- 📱 **Interactive Product Catalogs:** Responsive, content-rich layouts designed with **Tailwind CSS**.
+- 🚀 **Modern Web Applications:** Scalable and performant web solutions built with **React** and **Next.js**, **Vue** and **Nuxt.js**.
+- 🎨 **Advanced UI/UX Implementation:** Pixel-perfect, fully responsive interfaces designed with **Tailwind CSS**.
+- ⚡ **SEO & Performance Optimization:** High-speed, search-engine-optimized architectures using SSR/SSG.
 
 *Code walkthroughs or live demos can be provided during technical interviews.*
 
