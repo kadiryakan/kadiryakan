@@ -1,7 +1,7 @@
 <div align="center">
   
-  <h1>Hi there, I'm Kadir Yakan! 👋</h1>
-  <h3>Passionate Front-End Developer based in Denizli, Turkey 🇹🇷</h3>
+  <h1>Hi there, I'm Kadir Yakan!</h1>
+  <h3>Front-End Developer based in Denizli, Turkey 🇹🇷</h3>
   
   <p>
     I specialize in building scalable, user-centric web applications using modern JavaScript frameworks.
@@ -32,8 +32,7 @@ Due to **Non-Disclosure Agreements (NDAs)** and business confidentiality, the so
 
 However, I actively develop production-ready solutions including:
 
-- 🏢 **Corporate Web Solutions:** High-performance, SEO-friendly websites built with **Next.js** & **React**.
-- 🌍 **Multi-Language Interfaces (i18n):** Global-ready web applications with dynamic routing and localization.
+- 🏢 **Corporate Web Solutions:** High-performance, SEO-friendly websites built with **Next.js** & **React**, **Nuxt.js** & **Vue**.
 - 📱 **Interactive Product Catalogs:** Responsive, content-rich layouts designed with **Tailwind CSS**.
 
 *Code walkthroughs or live demos can be provided during technical interviews.*
